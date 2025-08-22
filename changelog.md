@@ -1,3 +1,8 @@
+## 2024.2_v2.1.2
+* Adjust PS reference clock frequency to remove rounding errors
+* Remove MA-XU3-2EG-1I-D10 product model
+* Remove component declarations for components provided by the unisim library
+
 ## 2024.1_v2.0.2
 * Changed clock source for GPU to VPLL, enables better DRAM frequency
 * Refactor documentation
